@@ -1,1 +1,1 @@
-# Matrix_Op_and_FizzBuzzGame
+# Matrix_Operations_and_FizzBuzzGame
